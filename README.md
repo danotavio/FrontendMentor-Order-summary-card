@@ -35,6 +35,6 @@ I want to continue and extend to JS using pop-ups and some modals to help enhanc
 - Improve mobile experience
 ### Useful resources
 
-- [Example resource 1](https://tailwindcss.com/docs/responsive-design) - This helped by allowing me to use Tailwind
+- [Tailwind Documentation](https://tailwindcss.com/docs/responsive-design) - This helped by allowing me to use Tailwind
 
 
