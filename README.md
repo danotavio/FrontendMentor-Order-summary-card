@@ -31,7 +31,7 @@ I want to continue and extend to JS using pop-ups and some modals to help enhanc
 
 - Create a changebled plan
 - Modal to confirm infos
-- Next steps, as a payment form
+- A payment form
 - Improve mobile experience
 ### Useful resources
 
